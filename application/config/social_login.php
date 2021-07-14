@@ -2,6 +2,16 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 /**
  * SOCIAL Setting
+ *
+ * 구글
+https://console.developers.google.com/
+
+카카오
+https://developers.kakao.com/console/app
+
+네이버
+https://developers.naver.com/docs/login/web/
+
  **/
 $config['naver_login']['client_id']         = "네아로 클라이언트 ID";
 $config['naver_login']['client_secret']     = "네아로 클라이언트 secret";
